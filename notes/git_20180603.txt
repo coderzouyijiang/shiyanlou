@@ -1,0 +1,13 @@
+1.commands
+(1)git add file1 ...fileN
+(2)git status
+(3)git reset HEAD file1 ...fileN
+(4)git diff --cached
+push key 'q' quit diff view.
+(5)git commit -m "comment"
+(6)git config --global key value
+git config --global user.name "YijiangZou"
+git config --global user.email "coderzouyijiang@163.com"
+(7)git clone https://github.com/coderzouyijiang/shiyanlou
+(8)git push
+
